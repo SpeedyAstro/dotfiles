@@ -21,7 +21,7 @@
 - **Desktop Notification** :herb: [Dunst](https://github.com/dunst-project/dunst)
 - **Terminal Emulator** :leaves: Alacritty
 - **Shell** 🐟 Fish
-- **Compositor** :shaved_ice: [Picom](https://github.com/yshui/picom)
+- **Compositor** :shaved_ice:  [pijulius's picom](https://github.com/pijulius).
 - **File Manager** :flower_playing_cards: Ranger
 - **Media Player** :city_sunset: [mpv](https://mpv.io)
 - **Music Player** 🎵 Spotify
@@ -46,8 +46,7 @@
 -
 ![image](https://github.com/Mr-Anubhav-pandey/dotfiles/blob/main/Pictures/Pictures/demo.gif)
 
--
- Picom source [pijulius's picom](https://github.com/pijulius).
+
 
 
   </div>
